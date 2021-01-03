@@ -10,7 +10,7 @@
 * [x] Edit exercise log
 
 ## Languages & Tools
-React, JavaScript, HTML/CSS, MongoDB Atlas, Express.js, Node.js
+React, JavaScript, HTML/CSS, MongoDB Atlas, Express.js, Node.js, Bootstrap
 
 ## What I Learned
 I created this simple exercise tracking logger in order to better acquaint myself with the MERN stack. This was my first time using Express.js, Node.js, and MongoDB Atlas, so it provided me a good way to understand all of the components necessary to build a full-stack web application.
